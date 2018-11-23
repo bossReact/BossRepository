@@ -47,4 +47,7 @@ public class HomeController {
 		System.out.println("Added by working branch");
 	}
 	
+	public String getString() {
+		return "Added by Master branch";
+	}
 }

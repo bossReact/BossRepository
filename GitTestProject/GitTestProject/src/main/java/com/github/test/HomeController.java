@@ -43,9 +43,8 @@ public class HomeController {
 	}
 	
 	String sname="saurabh";
-	
-	public String getString() {
-		return "Written by NewBranchMaster";
-	}
 
+	public String getString1() {
+		return "Added by NewBranchMaster branch";
+	}
 }

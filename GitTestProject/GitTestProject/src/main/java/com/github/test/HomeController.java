@@ -42,9 +42,10 @@ public class HomeController {
 		return "home";
 	}
 	
-	public void homeSetter()
-	{
-		System.out.println("Added by working branch");
-	}
+	String sname="saurabh";
 	
+	public String getString() {
+		return "Written by NewBranchMaster";
+	}
+
 }

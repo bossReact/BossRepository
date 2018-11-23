@@ -51,4 +51,7 @@ public class HomeController {
 		return "Written by working_branch";
 	}
 	
+	public String getString1() {
+		return "Added by update_branch branch";
+	}
 }

@@ -47,4 +47,8 @@ public class HomeController {
 		System.out.println("Added by working branch");
 	}
 	
+	public String getString() {
+		return "Written by working_branch";
+	}
+	
 }
